@@ -3,7 +3,7 @@
 accounts = {
 
 // Put your data here as shown below. Don't forget the commas and quotes!
-// If your emails or passwords contain single quotes,
+// 'iamtomtastic@gmai.com' : 'boomboom'
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
